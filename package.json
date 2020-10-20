@@ -1,20 +1,20 @@
 {
-  "name": "webpack_after_done",
+  "name": "webpack-after-done",
   "version": "1.0.0",
-  "description": "webpack_after_done,you will call functions when webpack compiler down",
+  "description": "provide a webpack plugin then you will call functions when webpack compiler down",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webszy/webpack_after_done.git"
+    "url": "git+https://github.com/webszy/webpack-after-done.git"
   },
   "keywords": ["webpack","plugin"],
   "author": "webszy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webszy/webpack_after_done/issues"
+    "url": "https://github.com/webszy/webpack-after-done/issues"
   },
-  "homepage": "https://github.com/webszy/webpack_after_done#readme"
+  "homepage": "https://github.com/webszy/webpack-after-done#readme"
 }
