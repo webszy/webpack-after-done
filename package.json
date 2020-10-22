@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/webszy/webpack-after-done.git"
   },
-  "keywords": ["webpack","plugin"],
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
   "author": "webszy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/webszy/webpack-after-done/issues"
   },
-  "homepage": "https://github.com/webszy/webpack-after-done#readme"
+  "homepage": "https://github.com/webszy/webpack-after-done#readme",
+  "dependencies": {
+    "jszip": "^3.5.0"
+  }
 }
