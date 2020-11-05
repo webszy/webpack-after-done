@@ -1,25 +1,25 @@
 {
   "name": "webpack-after-done",
-  "version": "1.0.4",
-  "description": "provide a webpack plugin then you will call functions when webpack compiler down",
+  "version": "1.0.5",
+  "description": "provide a webpack plugin then you will call functions when webpack compiler done",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webszy/webpack-after-done.git"
+    "url": "git+https://github.com/webszy/webpack-auto-zip.git"
   },
   "keywords": [
     "webpack",
     "plugin"
   ],
   "author": "webszy",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webszy/webpack-after-done/issues"
+    "url": "https://github.com/webszy/webpack-auto-zip/issues"
   },
-  "homepage": "https://github.com/webszy/webpack-after-done#readme",
+  "homepage": "https://github.com/webszy/webpack-auto-zip#readme",
   "dependencies": {
     "jszip": "^3.5.0"
   }

@@ -25,7 +25,8 @@ module.exports = class done {
             console.log('error: ', error);
           }
         }
-        if (this.zipify) {
+      }
+      if (this.zipify) {
           const { makeZip } = require('./utils')
           try {
             makeZip(compiler.options.output.path, this.zipFileName)
@@ -33,7 +34,6 @@ module.exports = class done {
             console.log('error: ', error);
           }
         }
-      }
     })
   }
 }
