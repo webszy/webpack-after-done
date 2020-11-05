@@ -42,7 +42,6 @@ function makeZip(output, fileName = 'dist.zip') {
       fs.writeFileSync(dest, content);
     });
   }
-
   removeExistedZip()
   zipDir(distPath)
 }

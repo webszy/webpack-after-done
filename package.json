@@ -1,6 +1,6 @@
 {
   "name": "webpack-after-done",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "provide a webpack plugin then you will call functions when webpack compiler done",
   "main": "index.js",
   "scripts": {
